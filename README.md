@@ -122,7 +122,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=opticalsecurity&&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=opticalsecurity&&style=for-the-badge&color=blueviolet" align="center" />
 </div>  
 
 <br />
