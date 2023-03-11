@@ -1,6 +1,3 @@
-
-  
-
 ### <div align="center">I'm Manuel, a full-time full-stack freelance developer  🚀</div>  
   
 
@@ -15,6 +12,62 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+
+<br/>  
+
+
+## Connect with me  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">
+<a href="https://github.com/opticalsecurity" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/opticalsecurity" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/opticalsecurity" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/opticalsecurity" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/manu.gn13" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/opticalsecurity" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
+</td><td valign="top" width="33%">
+
+<div align="center">
+            <a href="https://paypal.me/opticalsecurity" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+                <a href="https://liberapay.com/opticalsecurity" target="_blank" style="display: inline-block;">
+                    <img
+                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
+                        align="center"
+                    />
+                </a>
+            <a href="https://ko-fi.com/opticalsec" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+
+</td><td valign="top" width="33%">
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31hbsonmxeqrirleengchy5lap6i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+
+</td></tr></table>  
 
 <br/>  
 
@@ -64,63 +117,7 @@
 
 <br/>  
 
-
-## Connect with me  
-<table><tr><td valign="top" width="50%">
-
-<div align="center">
-<a href="https://github.com/opticalsecurity" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/opticalsecurity" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/opticalsecurity" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/opticalsecurity" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/manu.gn13" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/opticalsecurity" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-</td><td valign="top" width="50%">
-
-<div align="left">
-            <a href="https://paypal.me/opticalsecurity" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-                <a href="https://liberapay.com/opticalsecurity" target="_blank" style="display: inline-block;">
-                    <img
-                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
-                        align="left"
-                    />
-                </a>
-            <a href="https://ko-fi.com/opticalsec" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="left"
-                />
-            </a></div>
-
-</td></tr></table>  
-
-<br/>  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=opticalsecurity&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hbsonmxeqrirleengchy5lap6i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
