@@ -1,7 +1,7 @@
 ### <div align="center">I'm Manuel, a full-time full-stack freelance developer  🚀</div>  
   
 
-- 🔭 I’m currently working on OSINTar, a database scraping software.  
+- 🔭 I’m currently working on DarkX, a database scraping software.  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes.  
